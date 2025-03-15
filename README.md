@@ -78,5 +78,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Created by [Konsept](https://github.com/konsept)
+- Created by [Konsept](https://github.com/konseptt)
 - Algorithms implementation based on operating systems theory and principles
